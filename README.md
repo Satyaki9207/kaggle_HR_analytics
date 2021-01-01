@@ -1,2 +1,1 @@
-# kaggle_HR_analytics
-given background information about candidates, the task is to predict the probability of the candidate leaving
+# Please see the master branch for 
