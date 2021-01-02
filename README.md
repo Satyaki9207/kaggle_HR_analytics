@@ -42,4 +42,4 @@ The dataset is imbalanced.
 Most features are categorical (Nominal, Ordinal, Binary), some with high cardinality
 
 ## Keywords
-Classification, Categorical Variables, Missing value imputation, Categorical Embedding, EDA
+Classification, Categorical Variables, Missing value imputation, Data Visualization, Random Forest, Gradient Boosting
