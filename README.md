@@ -6,6 +6,10 @@ https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
 ## Context 
 A company which is active in Big Data and Data Science wants to hire data scientists among people who successfully pass some courses which conduct by the company. Many people signup for their training. Company wants to know which of these candidates are really wants to work for the company after training or looking for a new employment because it helps to reduce the cost and time as well as the quality of training or planning the courses and categorization of candidates. Information related to demographics, education, experience are in hands from candidates signup and enrollment
 
+## Key Takeaways
+1. Predict the probability of an employee leaving
+2. Top factors that contribute to employee retention
+
 ## Feature Description
 
 enrollee_id : Unique ID for candidate
@@ -41,5 +45,8 @@ target: 0 – Not looking for job change, 1 – Looking for a job change
 The dataset is imbalanced.
 Most features are categorical (Nominal, Ordinal, Binary), some with high cardinality
 
+
 ## Keywords
 Classification, Categorical Variables, Missing value imputation, Data Visualization, Random Forest, Gradient Boosting
+
+
