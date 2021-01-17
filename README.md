@@ -10,7 +10,7 @@ A company which is active in Big Data and Data Science wants to hire data scient
 1. Predict the probability of an employee leaving
 2. Top factors that contribute to employee retention
 
-[](https://github.com/Satyaki9207/kaggle_HR_analytics/blob/master/Factors_for_employee_retention.PNG)
+(https://github.com/Satyaki9207/kaggle_HR_analytics/blob/master/Factors_for_employee_retention.PNG)
 
 ## Feature Description
 
