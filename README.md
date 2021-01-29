@@ -21,10 +21,10 @@ A company which is active in Big Data and Data Science wants to hire data scient
 
 
 ## Files in the Repository
-HR_Analytics.ipynb : Contains the code to generate the visualizations and model creation
-aug_train.csv : contains training data
-aug_test : contains test data
-sample_submission: file for demonstrating the format of submissions
++ HR_Analytics.ipynb : Contains the code to generate the visualizations and model creation
++ aug_train.csv : contains training data
++ aug_test : contains test data
++ sample_submission: file for demonstrating the format of submissions
 
 
 
