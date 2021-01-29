@@ -20,6 +20,31 @@ A company which is active in Big Data and Data Science wants to hire data scient
 
 
 
+## Files in the Repository
+HR_Analytics.ipynb : Contains the code to generate the visualizations and model creation
+aug_train.csv : contains training data
+aug_test : contains test data
+sample_submission: file for demonstrating the format of submissions
+
+
+
+
+## Results summary
+#### Top 5 factors pertaining to employee retainment are
++ company size  
+people from midsize companies tend to leave more than really small or really big companies  
+
++ years since last new job  
+Freshers have the highest attrition rate. People who settle into the job tend to stay
+
++ education level  
+Here again,there's atrend of mid level people leaving. People with bachelor's or masters degrees have highest attrition rates
+
++ experience  
+People with low experience/freshers tend to leave more
+
++ City development index  
+People from more developed cities tend to leave less
 
 
 
