@@ -2,6 +2,7 @@
 
 Dataset can be found [here](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
 
+Detailed report without code can be found [here](https://github.com/Satyaki9207/kaggle_HR_analytics/blob/master/Results.pptx)
 
 ## Problem Description
 A company which is active in Big Data and Data Science wants to hire data scientists among people who successfully complete some courses conducted by the company. Many people signup for their training. They want to know which of these candidates really want to work for the company after training or look for new employment. They are interested in reducing the cost and time for planning the courses and categorization of candidates. Information related to demographics, education, experience are collected from the candidates at the time of enrollment
@@ -25,6 +26,7 @@ A company which is active in Big Data and Data Science wants to hire data scient
 + aug_train.csv : contains training data
 + aug_test : contains test data
 + sample_submission: file for demonstrating the format of submissions
++ results.pptx - presentation containing the analysis results
 
 
 
